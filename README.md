@@ -1,5 +1,9 @@
 
 
+📚 BookNest — MERN Book Inventory & Online Book Store
+
+BookNest is a full-stack MERN-based Book Inventory and Online Book Store that allows users to explore, search, and purchase books through a clean and responsive interface. The project includes book collections, best sellers, shopping cart functionality, customer reviews, and a structured backend for managing book data.
+
 ## ✨ Features
 
 - 🏠 Modern responsive home page
